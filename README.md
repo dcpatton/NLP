@@ -3,6 +3,10 @@ natural language processing
 
 Example Notebooks:
 
+* https://github.com/dcpatton/NLP/blob/master/ag-use.ipynb
+
+  Text classification of AG news data using the Universal Sentence Encoder
+
 * https://github.com/dcpatton/NLP/blob/master/Friends_NLP.ipynb
 
   Application of Google's nnlm-en-dim128 embedding layer to a imbalanced classification challenge
