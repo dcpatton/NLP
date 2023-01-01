@@ -3,6 +3,10 @@ natural language processing
 
 Example Notebooks:
 
+* https://github.com/dcpatton/NLP/blob/master/opus_keras_nlp.ipynb
+
+  Translation of OPUS medical text from German to English using Keras_NLP
+  
 * https://github.com/dcpatton/NLP/blob/master/ag-use.ipynb
 
   Text classification of AG news data using the Universal Sentence Encoder
